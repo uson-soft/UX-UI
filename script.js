@@ -1,1 +1,1 @@
-confirm()
+prompt()
